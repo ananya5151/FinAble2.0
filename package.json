@@ -1,0 +1,21 @@
+{
+  "name": "expense-tracker_fullstack-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alan-ai/alan-sdk-web": "^1.8.54",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.0",
+    "react-speech-kit": "^3.0.1",
+    "react-speech-recognition": "^3.10.0"
+  }
+}
