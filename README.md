@@ -28,7 +28,7 @@ Whether you're adding a new transaction, checking your monthly spending, or sett
 
 See Finable in action! Watch our demo video to see how easy it is to manage your finances with just your voice.
 
-<img width="1903" height="993" alt="Screenshot 2025-07-29 211811" src="https://github.com/user-attachments/assets/c167f2fb-44c1-4cdf-9ed9-dd5467a6a6e2" />
+https://www.loom.com/share/a6ca02237c7a4f6eab1088caada26501?sid=8b412182-a502-4c02-85c0-c153433377bb
 
 ---
 
